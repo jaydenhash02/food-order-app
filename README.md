@@ -6,12 +6,12 @@ React hooks used:
  - useState
  - useEffect
  - useContext
- - useRef 
+ - useRef
  - useReducer
 
-
-
 ### To run this React app:
- - Clone the repository 
- - run 'npm install' in the terminal 
+ - Clone the repository
+ - run 'npm install' in the terminal
  - run 'npm start' in the terminal
+ 
+### Page Preview 
