@@ -8,3 +8,10 @@ React hooks used:
  - useContext
  - useRef 
  - useReducer
+
+
+
+### To run this React app:
+ - Clone the repository 
+ - run 'npm install' in the terminal 
+ - run 'npm start' in the terminal
